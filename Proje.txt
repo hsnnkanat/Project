@@ -1,1 +1,3 @@
-Git Eğitimi
+int cıkarma(intx,int y){
+	return x-y;
+}
